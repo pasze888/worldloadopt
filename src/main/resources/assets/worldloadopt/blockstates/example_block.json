@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "worldloadopt:block/example_block"
+    }
+  }
+}
