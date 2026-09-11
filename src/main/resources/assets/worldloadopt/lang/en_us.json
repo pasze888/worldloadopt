@@ -1,18 +1,5 @@
 {
-  "itemGroup.worldloadopt": "World Load Opt Tab",
-  "block.worldloadopt.example_block": "Example Block",
-  "block.worldloadopt.glow_ore": "Glow Ore",
-  "item.worldloadopt.example_item": "Example Item",
-  "item.worldloadopt.speed_stick": "Speed Stick",
-  "item.worldloadopt.recall_stick": "Recall Stick",
-
   "worldloadopt.configuration.title": "World Load Opt Configs",
-  "worldloadopt.configuration.section.worldloadopt.common.toml": "World Load Opt Configs",
-  "worldloadopt.configuration.section.worldloadopt.common.toml.title": "World Load Opt Configs",
   "worldloadopt.configuration.section.worldloadopt.client.toml.title": "World Load Opt Configs",
-  "worldloadopt.configuration.worldCreationPrefetch": "Prefetch World Creation Data",
-  "worldloadopt.configuration.items": "Item List",
-  "worldloadopt.configuration.logDirtBlock": "Log Dirt Block",
-  "worldloadopt.configuration.magicNumberIntroduction": "Magic Number Text",
-  "worldloadopt.configuration.magicNumber": "Magic Number"
+  "worldloadopt.configuration.worldCreationPrefetch": "Prefetch World Creation Data"
 }
